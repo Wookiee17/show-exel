@@ -1,0 +1,12 @@
+.navbar {
+  height: 80px;
+  color: aqua;
+  background: rgb(222,221,234);
+background: linear-gradient(90deg, rgba(222,221,234,1) 0%, rgba(1,13,14,1) 0%, rgba(7,38,68,1) 70%, rgba(113,172,225,1) 100%, rgba(0,212,255,1) 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
